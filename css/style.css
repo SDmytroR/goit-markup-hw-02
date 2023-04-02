@@ -83,6 +83,10 @@
 }
 
 .hero {
+    background-color: #2E2F42;
+}
+
+.hero-title {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -91,7 +95,6 @@
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
-    background-color: #2E2F42;
 }
 
 .modal-btn {
