@@ -34,6 +34,10 @@
     text-decoration: none;
 }
 
+.hidden {
+    display: none;
+}
+
 .logo {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
