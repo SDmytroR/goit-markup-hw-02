@@ -99,6 +99,27 @@
     color: #FFFFFF;
 }
 
+.list-btn {
+    font-family: var(--primary-font);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    background-color: #E7E9FC;
+    color: #4D5AE5;
+    cursor: pointer;
+}
+
+.list-btn:hover,
+.list-btn:focus {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
+
 .modal-btn {
     font-family: var(--primary-font);
     font-style: normal;
@@ -118,6 +139,8 @@
     background-color: #404BBF;
     color: #FFFFFF;
 }
+
+
 
 .name-list {
     font-family: var(--primary-font);
