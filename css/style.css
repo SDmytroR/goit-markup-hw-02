@@ -1,0 +1,106 @@
+/* Header */
+/* Color logo "WEB" - #4D5AE5 */
+/* Color logo "STUDIO" - #2E2F42 */
+/* Color nav - #2E2F42 */
+/* Color address info - #2E2F42 */
+
+/* Hero image */
+/* Color h1 - #FFFFFF */
+/* Color butt - #F4F4FD */
+/* Background color - #2E2F42 */
+
+/* Section1 */
+/* Color h2 section 1 - #2E2F42 */
+/* Color p section 1 - #434455 */
+
+/* Section2 */
+/* Color h2 section 2 - #2E2F42 */
+
+/* Section3 */
+/* Color h2 section 3 - #2E2F42 */
+/* Color name cection 3 - #2E2F42 */
+/* Color p section 3 - #434455 */
+/* Background color - #F4F4FD */
+
+/* Footer */
+/* Color text footer - #F4F4FD */
+/* Background color - #2E2F42 */
+
+.list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.menu-link {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.list-contact {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.hero-title {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.1;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    background-color: #2E2F42;
+}
+
+.modal-btn {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.modal-btn:hover,
+.modal-btn:focus {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
+
+.name-list {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.info {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
