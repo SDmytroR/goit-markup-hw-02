@@ -189,6 +189,10 @@
     color: var(--accent-color);
 }
 
+.section-team-list {
+    background-color: #FFFFFF;
+}
+
 .name-worker {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
